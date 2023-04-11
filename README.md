@@ -1,2 +1,2 @@
 # Gustavo-Giotto
-Este é um projeto mexendo no GITHUB primeira vez.
+Este é um projeto mexendo no GITHUB a primeira vez.
